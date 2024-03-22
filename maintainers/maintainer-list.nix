@@ -9457,6 +9457,13 @@
     githubId = 25030997;
     name = "Yuki Okushi";
   };
+  joinemm = {
+    email = "joinemm@pm.me";
+    matrix = "@joinemm:matrix.org";
+    github = "Joinemm";
+    githubId = 26210439;
+    name = "Joonas Rautiola";
+  };
   jojosch = {
     name = "Johannes Schleifenbaum";
     email = "johannes@js-webcoding.de";
